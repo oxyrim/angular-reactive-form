@@ -1,0 +1,17 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #c7d36f;
+  padding: 1rem 2rem;
+  margin: 1rem 0;
+}
+
+button {
+  background-color: #9eb23b;
+  color: #e0deca;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}

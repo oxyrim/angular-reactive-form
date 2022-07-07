@@ -1,0 +1,4 @@
+<div *ngFor="let item of person">
+  <h3>{{ item.firstName }} {{ item.lastName }}</h3>
+  <button (click)="deleteMe(item.id)">Delete</button>
+</div>
